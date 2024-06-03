@@ -73,4 +73,4 @@ Check if your guess matches the random numbers generated during the game.
 Requirements
 A modern web browser with JavaScript enabled.
 Author
-[Your Name]
+Chris Williams
